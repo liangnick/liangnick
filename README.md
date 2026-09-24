@@ -24,13 +24,13 @@
 
 ---
 
-### [AAtravel](https://github.com/liangnick/aatravel) · 旅游搭子 AA 记账
+### [AAdazi](https://github.com/liangnick/aadaizi) · 搭子 AA 记账
 
-和朋友出去玩，AA 分账从此不再纠结。每人花了多少、谁欠谁多少，一眼看清。
+旅游、吃饭、演唱会、拼单……和搭子一起消费，AA 分账从此不再纠结。每人花了多少、谁欠谁多少，一眼看清。
 
 - **技术栈**：待定
 - **功能**：多成员分账 / 自动清算 / 账单历史
-- **仓库**：[github.com/liangnick/aatravel](https://github.com/liangnick/aatravel)
+- **仓库**：[github.com/liangnick/aadaizi](https://github.com/liangnick/aadaizi)
 
 ---
 
