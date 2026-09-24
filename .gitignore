@@ -45,3 +45,11 @@ venv/
 
 # Dependency directories
 packages/
+
+# Hollow - 树洞私密内容（绝对不能上传）
+Hollow/output/
+
+# 编译产物
+*.exe
+*.app
+*.dmg
