@@ -1,55 +1,13 @@
-# Node.js
-node_modules/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
+# 子项目目录（已拆分为独立仓库）
+Hollow/
+Moment/
+AAtravel/
 
 # IDE
 .idea/
 .vscode/
 *.swp
-*.swo
-*~
 
 # OS
 .DS_Store
 Thumbs.db
-Desktop.ini
-
-# Logs
-*.log
-
-# Build
-dist/
-build/
-out/
-
-# Env
-.env
-.env.local
-.env.*.local
-
-# Java
-*.class
-*.jar
-*.war
-target/
-
-# Python
-__pycache__/
-*.pyc
-*.pyo
-venv/
-.venv/
-
-# Dependency directories
-packages/
-
-# Hollow - 树洞私密内容（绝对不能上传）
-Hollow/output/
-
-# 编译产物
-*.exe
-*.app
-*.dmg
